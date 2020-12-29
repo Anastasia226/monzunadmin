@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/startups", {data:[{}],fetch:[],mutations:void 0});
