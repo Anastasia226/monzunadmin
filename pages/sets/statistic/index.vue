@@ -7,7 +7,7 @@
             >
                 <div class="photo">
                     <img
-                        :src="activeStartup.logo"
+                        :src="activeStartup.logo.url"
                         v-if="activeStartup.logo"
                         alt=""
                         class="image-set"
